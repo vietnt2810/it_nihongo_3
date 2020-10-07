@@ -1,2 +1,6 @@
-p "Hello"
-p "Hello again"
+
+<<<<<<< HEAD
+
+=======
+
+>>>>>>> master
